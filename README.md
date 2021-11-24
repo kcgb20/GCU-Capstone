@@ -1,63 +1,78 @@
-# DSC540  
-## If for any reason the files below do not work, files are also attached in a zip file to the LoudCloud submission.
-  
-**Assignment 7**  
-[Assignment 7 Files](https://github.com/kcgb20/DSC540/tree/main/Assignment%207)  
-Files included are:  
--[Assignment 7.docx](https://github.com/kcgb20/DSC540/blob/main/Assignment%207/Assignment%207.docx) containing text explanations for the assignment.  
--[Assignment 7.html](https://github.com/kcgb20/DSC540/blob/main/Assignment%207/Assignment%207.html) containing HTML version of Python code.  
--[Assignment 7.ipynb](https://github.com/kcgb20/DSC540/blob/main/Assignment%207/Assignment%207.ipynb) containg Jupyter Notebook Python code.  
--[wine_dataset.csv](https://github.com/kcgb20/DSC540/blob/main/Assignment%207/wine_dataset.csv) containing the dataset used for this assignment.  
-  
-**Assignment 6**  
-[Assignment 6 Files](https://github.com/kcgb20/DSC540/tree/main/Assignment%206)  
-Files included are:  
-- [Assignment 6.docx](https://github.com/kcgb20/DSC540/blob/main/Assignment%206/Assignment%206.docx) containing text explanations for the assignment.  
-- [Assignment 6.html](https://github.com/kcgb20/DSC540/blob/main/Assignment%206/Assignment%206.html) containing HTML version of Python code.  
-- [Assignment 6.ipynb](https://github.com/kcgb20/DSC540/blob/main/Assignment%206/Assignment%206.ipynb) containing Jupyter Notebook Python code.  
-  
-**Assignment 5**  
-[Assignment 5 Files](https://github.com/kcgb20/DSC540/tree/main/Assignment%205)  
-Files included are:  
-- [Assignmet 5.docx](https://github.com/kcgb20/DSC540/blob/main/Assignment%205/Assignment%205.docx) containing text explanations for the the assignment.  
-- [Assignment 5.html](https://github.com/kcgb20/DSC540/blob/main/Assignment%205/Assignment%205.html) containing HTML version of Python code.  
-- [Assignment 5.ipynb](https://github.com/kcgb20/DSC540/blob/main/Assignment%205/Assignment%205.ipynb) containing Jupyter Notebook Python code.  
-- [driving.csv](https://github.com/kcgb20/DSC540/blob/main/Assignment%205/driving.csv) containing data for Part 1 of assignment.  
-- [driving_fuzzy.csv](https://github.com/kcgb20/DSC540/blob/main/Assignment%205/driving_fuzzy.csv) containing data for Part 2 of assignment.  
-  
-**Assignment 4**  
-[Assignment 4 Files](https://github.com/kcgb20/DSC540/tree/main/Assignment%204)  
-Files included are:  
-- [Assignment 4 - Part 1.docx](https://github.com/kcgb20/DSC540/blob/main/Assignment%204/Assignment%204%20-%20Part%201.docx) containing text explanations for Part 1.
-- [Assignment 4 - Part 2.docx](https://github.com/kcgb20/DSC540/blob/main/Assignment%204/Assignment%204%20-%20Part%202.docx) containing text explanations for Part 2.
-- [Assignment 4 - Part 2.ipynb](https://github.com/kcgb20/DSC540/blob/main/Assignment%204/Assignment%204%20-%20Part%202.ipynb) containing Jupyter Notebook Python code for Part 2.  
-- [Assignment 4 - Part 2.html](https://github.com/kcgb20/DSC540/blob/main/Assignment%204/Assignment%204%20-%20Part%202.html) containing HTML version of Python code for Part 2.  
-  
-**Assignment 3**  
-[Assignment 3 Files](https://github.com/kcgb20/DSC540/tree/main/Assignment%203)  
-Files included are:  
-- [Assignment 3 - Baker.docx](https://github.com/kcgb20/DSC540/tree/main/Assignment%203) containing text explanations for Parts 1-3.  
-  
-  
-**Assignment 2**  
-[Assignment 2 Files](https://github.com/kcgb20/DSC540/tree/main/Assignment%202)  
-Files included are:  
-- [Assignment 2 - Part 1.docx](https://github.com/kcgb20/DSC540/blob/main/Assignment%202/Assignment%202%20-%20Part%201.docx) containing text explanation for Part 1.  
-- [Assignment 2 - Part 2.docx](https://github.com/kcgb20/DSC540/blob/main/Assignment%202/Assignment%202%20-%20Part%202.docx) containing text explanation for Part 2.  
-- [Assignment 2 - Part 2.ipynb](https://github.com/kcgb20/DSC540/blob/main/Assignment%202/Assignment%202%20-%20Part%202.ipynb) containing Python code for Part 2.  
-- [Assignment 2 - Part 2.html](https://github.com/kcgb20/DSC540/blob/main/Assignment%202/Assignment%202%20-%20Part%202.html) containing HTML version of the Python code for Part 2.  
-  
-
-**Assignment 1**  
-[Assignment 1 Files](https://github.com/kcgb20/DSC540/tree/main/Assignment%201)  
-Files included are:  
-- [Assignment 1 - Part 1.ipynb](https://github.com/kcgb20/DSC540/blob/main/Assignment%201/Assignment%201%20-%20Part%201.ipynb) containing the Python code for Part 1  
-- [Assignment 1 - Part 1.html](https://github.com/kcgb20/DSC540/blob/main/Assignment%201/Assignment%201%20-%20Part%201.html) containing an HTML version of the Python code for Part 1  
-- [Assignment 1 - Part 2.ipynb](https://github.com/kcgb20/DSC540/blob/main/Assignment%201/Assignment%201%20-%20Part%202.ipynb) containing the Python code for Part 2  
-- [Assignment 1 - Part 2.html](https://github.com/kcgb20/DSC540/blob/main/Assignment%201/Assignment%201%20-%20Part%202.html) containing an HTML version of the Python code for Part 2  
-- [Assignment 1 - Part 2.docx](https://github.com/kcgb20/DSC540/blob/main/Assignment%201/Assignment%201%20-%20Part%202.docx) containing text explanation for Part 2  
-- [Assignment 1 - Part 3.docx](https://github.com/kcgb20/DSC540/blob/main/Assignment%201/Assignment1%20-%20Part%203.docx) containing text explanation for Part 3  
-- [realestate.csv](https://github.com/kcgb20/DSC540/blob/main/Assignment%201/realestate.csv) containing the data for Part 2.  
-- [Assignment 1 - Baker.zip](https://github.com/kcgb20/DSC540/blob/main/Assignment%201/Assignment%201%20-%20Baker.zip) containing a zip file with all above files
+# Predicting Eurovision Finalists
+## GCU Data Science MS Capstone Project
 
 
+**Introduction** 
+This project involves predictive modeling for the Eurovision Song Contest. 
+During the contest, the contestants are placed into two different semi-finals, and ten acts from each semi-final will advance to the grand final. 
+The models I am building will predict which countries pass on to the grand final.
+Feel free to download the data set and Python code to run it yourself.
+  
+**Data Set**
+The data set that is being used in the modeling is Eurovision Data.csv
+Years 2012 thru 2021 are represented in this data.
+The values in this data set are as follows:
+  
+| Variable | Source |
+|----------|--------|
+| Country | Wikipedia |
+| Artist | Wikipedia |
+| Song | Wikipedia |
+| Year | Wikipedia |
+| Semi | Wikipedia |
+| Qualified | Wikipedia |
+| Place | Wikipedia |
+| Running Order | Wikipedia |
+| Returning Artist | Wikipedia |
+| YouTube Views | YouTube |
+| YouTube Upvotes Ratio| YouTube |
+| Spotify Listens | Spotify |
+| Sung in English | Wikipedia |
+| Pop | Personal Determination |
+| Wiwi Jury | WiwiBloggs |
+| OGAE Rating | OGAE |
+| Dance | Chosic |
+| Energy | Chosic |
+| Acoustic | Chosic |
+| Happy | Chosic |
+| Speech | Chosic |
+| Live | Chosic |
+| Loud | Chosic |
+| Tempo | Chosic|
+| Odds | Eurovision World |
+  
+The variables YouTube Views, YouTube Upvotes Ratio, and Spotify Listens are ranked within
+their year and semi-final, with 1 being the act with the highest value.
+  
+Feel free to add additional years to the data set or add additional variables to try in the model.
+  
+  
+**Code**
+The modeling code is under Capstone Code.ipynb
+This code will create the following types of models:
+-- Linear Regression
+-- Linear Regression, reduced variable model
+-- Logistic Regression
+-- Logistic Regression reduced variable model
+-- Decision Tree
+-- Random Forest
+-- Naive Bayes
+-- Ensemble
+  
+The reduced variable models are based on including only variables that are significant from
+the full-variable models.
+The decision tree model is limited to 5 levels.
+The random forest model uses 1000 trees.
+  
+If you run this model you will need to change the path to your data.
+  
+You may feel free to add or remove variables in the model as you see fit.
+  
+If you add years to the data, make sure to add running the predictions at the end of the code.
+  
+  
+**Exported Data**
+The Python code will export data intended to be used for Tableau.
+You may view the Tableau Workbook at the below link.
+You should also be able to download the Tableau workbook if you would like to modify it.
+https://public.tableau.com/app/profile/kc.grace/viz/Baker-DataScienceCapstone/LandingPage

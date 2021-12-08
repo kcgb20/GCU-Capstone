@@ -76,3 +76,7 @@ The Python code will export data intended to be used for Tableau.
 You may view the Tableau Workbook at the below link.
 You should also be able to download the Tableau workbook if you would like to modify it.
 https://public.tableau.com/app/profile/kc.grace/viz/Baker-DataScienceCapstone/LandingPage
+  
+  
+**Disclaimer**  
+Disclaimer: Predictions shown in this dashboard and produced by the models are not guarentees. The user accepts all risks when using these predictions. Creator is not to be held liable for any monetary gain or loss based on the use of predictions in this dashboard or any that come from the use and manipulation of the Python code.
